@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "plushified:block/drex_plushie",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "plushified:block/drex_plushie",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "plushified:block/drex_plushie",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "plushified:block/drex_plushie",
+      "y": 270
+    }
+  }
+}

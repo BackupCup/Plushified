@@ -1,0 +1,11 @@
+{
+    "parent": "plushified:block/base_plushie",
+    "texture_size": [
+        64,
+        64
+    ],
+    "textures": {
+        "plushie_texture": "plushified:block/diansu_plushie",
+        "particle": "minecraft:block/cyan_concrete_powder"
+    }
+}
